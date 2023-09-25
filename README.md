@@ -1,6 +1,6 @@
 # Basic Python-Programs
 
-1. Python program to print "Hello Python".
+1. Python program to print "Hello Python".\n
 2. Python program to do arithmetical operations.
 3. Python program to find the area of a triangle.
 4. Python program to solve quadratic equations.
